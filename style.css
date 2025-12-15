@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background: #ffe6f0;
+}
+
+.cake {
+  font-size: 120px;
+  position: relative;
+  cursor: pointer;
+}
+
+#flame {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 50px;
+}
